@@ -1,14 +1,13 @@
-
 import './App.css'
+import Form from './components/Form'
+import './styles/index.css'
 
 function App() {
 
 
   return (
     <>
-      <div>
-        <p>Pedro</p>
-      </div>
+      <Form />
     </>
   )
 }
